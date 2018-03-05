@@ -1,2 +1,3 @@
-# sites-eternity.engineering
-Eternity Engineering Blog
+# xyncro.com
+
+Public Site (xyncro.com)
