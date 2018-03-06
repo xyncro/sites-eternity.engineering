@@ -10,17 +10,17 @@ I'm writing about Eternity in the first person, for two reasons. The first one i
 
 Last year I lost my father, a month before the birth of my son. It changed how I think about many things, and permanence is one. Memories I took for granted suddenly were exposed as the fragile and delicate things they are.
 
-At the same time that I inherited my fathers thousands of photos, now loaded with new meaning, I started taking photos of my own. In doing so I discovered something -- that the thought of losing them was devastating. While before I had a fleeting and unconsidered relationship with the digital side of my memories, now they were precious in ways I'd never understood.
+Suddenly, as I inherited the thousands of photos my father had taken throughout his life, I started taking photos of my own. In doing so I discovered something -- that the thought of losing them was devastating. While before I had a fleeting and unconsidered relationship with the digital side of my memories, now they were precious in ways I'd never understood.
 
-I'd hope that nobody else ever learns the same lesson, but I'm human and I know I won't be alone.
+I hope that nobody else ever learns the same lesson, but I'm human and I know I won't be alone.
 
 # Making Memories Last Forever
 
-This year I started looking at how I create and store digital memories. My iPhone holds moments I couldn't bear to lose, and I trust that they're in the cloud somewhere, but how confident do I feel? Photos that my father gave me are on CDs, sometimes memory sticks. Memory sticks are fragile, easily lost and soon obsolete. Already I struggle to find a computer to read a CD. Will I still have them in 5 years? 10? 20? How about my son, will he have them in 50?
+This year I started looking at how I create digital memories -- and how I keep them. My iPhone holds moments I couldn't bear to lose. I trust that they're in the cloud somewhere, but how confident do I feel? Photos that my father gave me are on memory sticks or CDs. Memory sticks are fragile, easily lost and soon obsolete. Already I struggle to find a computer to read a CD. Will I still have them in 5 years? 10? 20? How about my son, will he have them in 50?
 
-Others trust them to social media, hoping that those memories will live on at the pleasure of a company which owes them nothing. How many photos vanished with Friends Reunited? With AOL boards? How many more will vanish with Instagram or Facebook when the next big thing arrives?
+Other people trust them to social media, hoping that those memories will live on at the pleasure of a company which owes them nothing. How many photos vanished with Friends Reunited? With AOL boards? How many more will vanish with Instagram or Facebook when the next big thing arrives?
 
-Even if we manage to save the photos, how many will end up as unreadable ghosts, 78s in a world of streaming and digital playback?
+Even if I manage to find a way to keep my photos, how many will end up as unreadable ghosts, 78s in a world of streaming and digital playback?
 
 # Towards Digital Permanence
 
