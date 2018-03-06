@@ -8,9 +8,9 @@ In the [first post on this blog][welcome] I briefly touched on the aim of Eterni
 
 I'm writing about Eternity in the first person, for two reasons. The first one is simple -- honesty. Eternity needs to be sustainable and I believe that it doesn't require a mega-corp to succeed. The second is the more important -- Eternity is a project for people, and that's personal. Here's why it's personal for me.
 
-Last year I lost my father, a month before the birth of my son. It changed how I think about many things, and permanence is one. Memories I took for granted suddenly were exposed as the fragile and delicate things they are.
+Last year I lost my father, a month before the birth of my son. It changed how I think about many things, and permanence is one. Memories I took for granted were exposed as the fragile and delicate things they are.
 
-Suddenly, as I inherited the thousands of photos my father had taken throughout his life, I started taking photos of my own. In doing so I discovered something -- that the thought of losing them was devastating. While before I had a fleeting and unconsidered relationship with the digital side of my memories, now they were precious in ways I'd never understood.
+Suddenly, as I inherited the thousands of photos my father had taken throughout his life, I started taking photos of my own. In doing so I discovered something -- that the thought of losing them was devastating. Before I had a fleeting and unconsidered relationship with my digital memories. Now they were precious in ways I'd never understood.
 
 I hope that nobody else ever learns the same lesson, but I'm human and I know I won't be alone.
 
