@@ -2,11 +2,7 @@
 title: Why Eternity?
 ---
 
-In the [first post on this blog][welcome] I briefly touched on the aim of Eternity, to ensure that **"digital doesn't equal ephemeral"**. I want to talk more about that -- to talk about motivation, about the concept of "long term" in the digital world, and about the need for a new approach.
-
-# Technology for People
-
-I'm writing about Eternity in the first person, for two reasons. The first one is simple -- honesty. Eternity needs to be sustainable and I believe that it doesn't need a mega-corp to succeed. The second is the more important -- Eternity is a project for people, and that's personal. Here's why it's personal for me.
+# Eternity is a project for People
 
 Last year I lost my father, a month before the birth of my son. It changed how I think about many things, and permanence is one. Memories I took for granted were exposed as the fragile and delicate things they are.
 
@@ -30,6 +26,6 @@ Technology will change over time, with increasing disruption and rapidity. The a
 
 Eternity will be a technology company focused on the long term. It will make decisions for the long term and put resilience, sustainability and risk-aversion ahead of quick profits and user numbers. In many ways, it is as old-fashioned as companies can be, relying on building trust and quietly providing a service of reassurance. It will need to grow, to adapt, to keep pace with the world -- but it will do so **in service of its customers**, not in thrall to disruption and upheaval.
 
-In the next blog post I'll talk more about what I think that looks like practically, about how to use the technologies we have today as a starting point, and how to ensure that a company can live for centuries.
+In the next posts I'll talk more about what I think that looks like practically, about how to use the technologies we have today as a starting point, and how to ensure that a company can live for centuries.
 
 [welcome]: /2018/03/05/welcome/
