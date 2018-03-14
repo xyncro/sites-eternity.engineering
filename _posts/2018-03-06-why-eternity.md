@@ -2,7 +2,7 @@
 title: Why Eternity?
 ---
 
-# Eternity is a project for People
+# Eternity is for People
 
 Last year I lost my father, a month before the birth of my son. It changed how I think about many things, and permanence is one. Memories I took for granted were exposed as the fragile and delicate things they are.
 
@@ -25,6 +25,8 @@ I looked at the cleverest solutions I could find. Peer to peer distributed file 
 Technology will change over time, with increasing disruption and rapidity. The answer lies not in a new type of technology, but in **a new type of technology company**.
 
 Eternity will be a technology company focused on the long term. It will make decisions for the long term and put resilience, sustainability and risk-aversion ahead of quick profits and user numbers. In many ways, it is as old-fashioned as companies can be, relying on building trust and quietly providing a service of reassurance. It will need to grow, to adapt, to keep pace with the world -- but it will do so **in service of its customers**, not in thrall to disruption and upheaval.
+
+# Next
 
 In the next posts I'll talk more about what I think that looks like practically, about how to use the technologies we have today as a starting point, and how to ensure that a company can live for centuries.
 
