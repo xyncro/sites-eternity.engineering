@@ -18,9 +18,7 @@ If you look at a list of the oldest companies in the world which exist today, th
 
 Eternity will -- must -- follow this example. No complex multi-layered business models. No hidden monetization strategy. No blurring of the lines between customer and product.
 
-In short, the simple model of Eternity is this:
-
-* **Store digital memories – keep them safe and accessible for generations. Charge a fair and sustainable amount to do so.**
+In short, the simple model of Eternity is this: **Store digital memories – keep them safe and accessible for generations. Charge a fair and sustainable amount to do so.**
 
 ## Sustainability
 
